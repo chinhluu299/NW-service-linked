@@ -3,8 +3,8 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": {
       "namespace": "android_app",
-      "package_name": "com.your.package.name",
-      "sha256_cert_fingerprints": ["YOUR_APP_SHA256_FINGERPRINT"]
+      "package_name": "com.nutriwarrior",
+      "sha256_cert_fingerprints": "57:78:30:F1:EB:02:E8:36:2B:60:5C:2A:90:3B:AB:D4:0F:EE:34:1F:49:7C:DA:4E:09:E3:4E:62:CC:39:5D:9E"
     }
   }
 ]
